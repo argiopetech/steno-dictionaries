@@ -1,8 +1,10 @@
 {
-"SKHR-P": "{#super(p)}",
-"SKHR*T": "{#super(w)}",
-"SKHRE": "{#super(e)}",
-"SKHR-R": "{#super(r)}",
+"SKHR-P": "{#super(p)}{^}",
+"SKHR*T": "{#super(w)}{^}",
+"SKHRE": "{#super(e)}{^}",
+"SKHR-R": "{#super(r)}{^}",
+
+"SKHR-FPS": "{#super(Space)}{^}",
 
 "SW": "{#}",
 "SW*": "{#}",
