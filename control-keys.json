@@ -1,0 +1,24 @@
+{
+"KHRA":   "{#Control_L(a)}",
+"KHR-BG": "{#Control_L(k)}",
+"KHR*F":  "{#Control_L(v)}",
+"KHR*T":  "{#Control_L(w)}",
+"KHR-T":  "{#Control_L(y)}",
+"KHR*BG": "{#Control_L(c)}",
+"KHR-P": "{#Control_L(p)}",
+"KHR-BGS": "{#Control_L(x)}",
+"KHR-S": "{#Control_L(s)}",
+"KHR-D": "{#Control_L(d)}",
+"KHR-G": "{#Control_L(g)}",
+"KHR*G": "{#Control_L(h)}",
+"KHR-L": "{#Control_L(l)}",
+"KHR-E": "{#Control_L(e)}",
+"KHR-F": "{#Control_L(f)}",
+
+"KHR-FPS": "{#Control_L(Space)}{^}"
+
+"KPH*BG": "{#alt(k)}",
+"KPH*F":  "{#alt(v)}",
+"KPH*T":  "{#alt(w)}",
+"KPH-BG": "{#alt(c)}"
+}

@@ -1,0 +1,8 @@
+{
+"STPH-P": "{#Down}{^}",
+"STKPH-T": "{#Control_L(Right)}{^}",
+"STPH-T": "{#Right}{^}",
+"STPH-L": "{#Up}{^}",
+"STPH-F": "{#Left}{^}",
+"STKPH-F": "{#Control_L(Left)}{^}"
+}
