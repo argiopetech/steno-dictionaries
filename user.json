@@ -1,0 +1,43 @@
+{
+"AOE/ROU": "ERAU",
+"SW": "{#}",
+"SW*": "{#}",
+"SW*/-6": "{#super(shift(6))}{^}",
+"SW*/-7": "{#super(shift(7))}{^}",
+"SW*/-8": "{#super(shift(8))}{^}",
+"SW*/-9": "{#super(shift(9))}{^}",
+"SW*/1": "{#super(shift(1))}{^}",
+"SW*/2": "{#super(shift(2))}{^}",
+"SW*/3": "{#super(shift(3))}{^}",
+"SW*/4": "{#super(shift(4))}{^}",
+"SW*/5": "{#super(shift(5))}{^}",
+"SW/-6": "{#super(6)}{^}",
+"SW/-7": "{#super(7)}{^}",
+"SW/-8": "{#super(8)}{^}",
+"SW/-9": "{#super(9)}{^}",
+"SW/1": "{#super(1)}{^}",
+"SW/2": "{#super(2)}{^}",
+"SW/3": "{#super(3)}{^}",
+"SW/4": "{#super(4)}{^}",
+"SW/5": "{#super(5)}{^}",
+
+"STPH-P": "{#Down}{^}",
+"STKPH-T": "{#Control_L(Right)}{^}",
+"STPH-T": "{#Right}{^}",
+"STPH-L": "{#Up}{^}",
+"STPH-F": "{#Left}{^}",
+"STKPH-F": "{#Control_L(Left)}{^}",
+
+"KA*PD": "{*-|}",
+"KA*PS": "{MODE:CAPS}",
+"SKA*PS": "{MODE:RESET}",
+"HRO*ER": "{>}",
+"HRO*ERD": "{*>}",
+
+"TK-FPS": "{*!}",
+"AFPS": "{*?}",
+
+"#*": "{*}",
+
+"KHR-FPS": "{#Control_L(Space)}{^}"
+}

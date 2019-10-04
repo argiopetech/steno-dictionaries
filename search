@@ -1,0 +1,14 @@
+#!/bin/bash
+
+while (:); do
+    clear
+
+    read -r -p "Search: " REPLY
+    REPLY=$(echo "${REPLY}" | sed 's/\\/\\\\/g')
+    
+    echo
+    grep -hi ": \"${REPLY}\"" *.json | grep --color=always -i "\"${REPLY}\"" | head -n 10
+
+    echo
+    read -s -p "Enter to search again..."
+done
