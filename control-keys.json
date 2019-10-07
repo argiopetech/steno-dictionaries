@@ -14,6 +14,12 @@
 "KHR-L": "{#Control_L(l)}{^}",
 "KHR-E": "{#Control_L(e)}{^}",
 "KHR-F": "{#Control_L(f)}{^}",
+"KHR-Z": "{#Control_L(z)}{^}",
+"KHR-PBLG": "{#Control_L(j)}{^}",
+"KHR-B": "{#Control_L(b)}{^}",
+"KHROEU": "{#Control_L(slash)}{^}",
+"KHRU": "{#Control_L(u)}{^}",
+
 
 "KHR-FPS": "{#Control_L(Space)}{^}",
 

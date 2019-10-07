@@ -5,6 +5,7 @@
 "SKHR-R": "{#super(r)}{^}",
 
 "SKHR-FPS": "{#super(Space)}{^}",
+"SKHR-RT": "{#super(shift(return))}{^}",
 
 "SW": "{#}",
 "SW*": "{#}",

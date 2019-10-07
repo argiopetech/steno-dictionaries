@@ -1,25 +1,25 @@
 {
-"PW*FP": "{#BackSpace}",
+"S-S": "{}",
+"PW*FP": "{#Delete}",
 "PW-FP": "{#BackSpace}",
 
 "R*R":         "{#Return}{^}",
 "R-R":         "{^}{#Return}{^}{-|}",
-"SKW-BGS":     "{#Return}{^}",
-"SKWRAEURBGS": "{#Return}{#Return}{^}{-|}",
 "SKWRAURBGS":  "{#Return}{#Return}{^}{-|}",
 
 "TA*B": "{#Tab}{^}",
 "TPEFBG": "{#Escape}",
-"TPHEPBT": "{#Return}",
 
-"PHRO*F": "{PLOVER:SUSPEND}",
 "PHROLG": "{PLOVER:TOGGLE}",
-"PHROPB": "{PLOVER:RESUME}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 
+"TKPH-R": "{MODE:RESET}",
+"TKPH-B": "{MODE:SET_SPACE:}",
+"TKPH-G": "{MODE:CAMEL}",
+"TKPH-S": "{MODE:LOWER}{MODE:SET_SPACE:-}",
+"TKPH-Z": "{MODE:CAPS}",
+
 "KA*PD": "{*-|}",
-"KA*PS": "{MODE:CAPS}",
-"SKA*PS": "{MODE:RESET}",
 "HRO*ER": "{>}",
 "HRO*ERD": "{*>}",
 
@@ -27,7 +27,5 @@
 "AFPS": "{*?}",
 
 "#*": "{*}",
-
 "#": "{*+}"
-
 }
